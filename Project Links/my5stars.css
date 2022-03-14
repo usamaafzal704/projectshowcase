@@ -1,0 +1,12 @@
+html {
+  background: url(my5stars.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+body {
+  color: white;
+}
+
+main h3 {
+  color:red;
+}

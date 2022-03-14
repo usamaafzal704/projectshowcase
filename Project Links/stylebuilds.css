@@ -1,0 +1,19 @@
+html {
+  background: url(builds.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+body{
+  /* background: rgba(155,98,56); */
+  /* background: rgba(5, 100, 0, .5); */
+  color: rgb(0,222,200)
+}
+
+body > header > h3{
+  color:rgb(255, 0, 0);
+}
+
+h3{
+  color:rgb(255,250, 0);
+  background-color: rgb(3 107 120 / 53%);
+}
