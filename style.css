@@ -21,7 +21,6 @@ a {
   text-decoration: none;
   font-weight: bold;
   font-size: 20px;
-  transition: all 0.5s;
 }
 
 a:hover {
