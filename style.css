@@ -21,12 +21,11 @@ a {
   text-decoration: none;
   font-weight: bold;
   font-size: 20px;
-  transition: all 0.3s;
 }
 
 a:hover {
   color: white;
-  transform: scale(1.1);
+  font-weight:25px;
 }
 
 center {
